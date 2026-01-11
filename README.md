@@ -6,6 +6,7 @@
 
 - <b>Python</b>
   - [(Machine learning model classification diabetes)](https://github.com/Jonathan-Snyder1/modeldiabetes)
+  - [(Brewery Data vega lite/altair visualization)](https://github.com/Jonathan-Snyder1/brewerydata)
 
 
 
