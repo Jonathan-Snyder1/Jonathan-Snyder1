@@ -2,7 +2,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Data science and Algorithms Practice </b>
-  - [NFL advanced receiving metrics/k means clustering](https://github.com/Jonathan-Snyder1/NFL-receiving-analytics)
+  - [(NFL advanced receiving metrics/k means clustering)](https://github.com/Jonathan-Snyder1/NFL-receiving-analytics)
 
 - <b>Python</b>
   - [(Machine learning model classification diabetes)](https://github.com/Jonathan-Snyder1/modeldiabetes)
