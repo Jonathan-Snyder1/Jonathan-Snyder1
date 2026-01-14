@@ -1,10 +1,9 @@
 <h1>Hi, I'm Jonathan!
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Data science and Algorithms Practice R code </b>
+- <b>Data science and Algorithms Practice Python/R code </b>
   - [(NFL advanced receiving metrics/k means clustering)](https://github.com/Jonathan-Snyder1/NFL-receiving-analytics)
-
-- <b>Data science and Algorithms Practice Python</b>
+  - [(Qb fantasy points model predictions)](https://github.com/Jonathan-Snyder1/nfl_fantasy_qbpredictions)
   - [(Machine learning model classification diabetes)](https://github.com/Jonathan-Snyder1/modeldiabetes)
   - [(Brewery Data vega lite/altair visualization)](https://github.com/Jonathan-Snyder1/brewerydata)
 
