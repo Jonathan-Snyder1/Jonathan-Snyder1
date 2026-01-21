@@ -12,8 +12,8 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JonathanSnyder| Twitter" width="44px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbtjNViKpK0vigjI6XodAwNA6zB3BYeRtWg&s" />][handshake]
-[<img align="left" alt="JonathanSnyder | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JonathanSnyder | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JonathanSnyder | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/960px-LinkedIn_icon.svg.png" />][linkedin]
+[<img align="left" alt="JonathanSnyder | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/500px-Instagram_icon.png" />][instagram]
 
 [handshake]: https://ucf.joinhandshake.com/profiles/7vau79
 [linkedin]: www.linkedin.com/in/jonathan-snyder-192a163a7
