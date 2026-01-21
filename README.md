@@ -17,4 +17,4 @@
 
 [handshake]: https://ucf.joinhandshake.com/profiles/7vau79
 [linkedin]: www.linkedin.com/in/jonathan-snyder-192a163a7
-[instagram]: https://www.instagram.com/joshmadakor/](https://www.instagram.com/jonathan_snyder1/
+[instagram]: https://www.instagram.com/jonathan_snyder1/
