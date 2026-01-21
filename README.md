@@ -16,5 +16,5 @@
 [<img align="left" alt="JonathanSnyder | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [handshake]: https://ucf.joinhandshake.com/profiles/7vau79
-[linkedin]: https://linkedin.com
+[linkedin]: www.linkedin.com/in/jonathan-snyder-192a163a7
 [instagram]: https://www.instagram.com/joshmadakor/](https://www.instagram.com/jonathan_snyder1/
